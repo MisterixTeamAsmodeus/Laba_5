@@ -1,6 +1,6 @@
 package org.example.api;
 
-///Api для получения инфрмации о протоколах
+///Api для получения информации о протоколах
 public interface HttpProtocol {
     /**
      * Получение типа протокола
